@@ -1,0 +1,1 @@
+Run: flask db init (once), then flask db migrate -m "initial", flask db upgrade
